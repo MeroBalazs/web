@@ -1,0 +1,15 @@
+
+# GitHub Pages configuration
+
+title: "Mai dátum"
+description: "Egy egyszerű weboldal, amely megjeleníti az aktuális dátumot magyar formátumban."
+
+# Website language
+lang: hu
+
+# GitHub Pages settings
+plugins: []
+
+# Exclude documentation and unnecessary files from processing
+exclude:
+  - README.md
