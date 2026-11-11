@@ -1,6 +1,5 @@
-
 # GitHub Pages configuration
-
+theme: jekyll-theme-tactile
 title: "Mai dátum"
 description: "Egy egyszerű weboldal, amely megjeleníti az aktuális dátumot magyar formátumban."
 
